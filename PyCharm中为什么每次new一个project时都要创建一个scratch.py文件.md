@@ -1,0 +1,4 @@
+- PyCharm中为什么每次new一个project时都要创建一个scratch.py文件
+- v = tf.variable(3,name='v') 中定义name有什么用
+- batch训练的含义，or分成batch训练有什么好处
+- AlexNet代码中conv层中kernel也是variable，那kernel在后面训练中也是可变的？
