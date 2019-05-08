@@ -3,7 +3,6 @@ import numpy as np
 from keras.layers import Dense, Activation, Flatten, Conv1D, MaxPooling1D
 from keras.models import Sequential
 from keras.utils import np_utils
-import numpy as np
 
 def convert_txt_to_np_with_label(file, label):
     """
